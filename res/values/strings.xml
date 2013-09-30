@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RefactoringParcsys</string>
+    <string name="card">card</string>
+    <string name="store">store</string>
+    <string name="service_buy">buy</string>
+</resources>
